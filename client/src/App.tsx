@@ -1,6 +1,6 @@
 import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import CreatePost from "./pages/CreatePost";
+import { Home } from "./pages/Home";
+import { CreatePost } from "./pages/CreatePost";
 
 const App = () => {
     return (
